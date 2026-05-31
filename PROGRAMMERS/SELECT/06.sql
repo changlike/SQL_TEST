@@ -1,3 +1,5 @@
+-- 흉부외과 또는 일반외과 의사 목록 출력하기 
+
 /*문제 설명
 다음은 종합병원에 속한 의사 정보를 담은 DOCTOR 테이블입니다. 
 DOCTOR 테이블은 다음과 같으며 DR_NAME, DR_ID, LCNS_NO, HIRE_YMD, MCDP_CD, TLNO는 

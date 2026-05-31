@@ -1,3 +1,5 @@
+-- 3월에 태어난 여성 회원 목록 출력하기 
+
 /*문제 설명
 다음은 식당 리뷰 사이트의 회원 정보를 담은 MEMBER_PROFILE 테이블입니다. 
 MEMBER_PROFILE 테이블은 다음과 같으며 MEMBER_ID, MEMBER_NAME, TLNO, GENDER, DATE_OF_BIRTH는 

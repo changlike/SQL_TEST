@@ -1,3 +1,5 @@
+-- 인기있는 아이스크림 
+
 /*문제 설명
 FIRST_HALF 테이블은 아이스크림 가게의 상반기 주문 정보를 담은 테이블입니다.
 FIRST_HALF 테이블 구조는 다음과 같으며, SHIPMENT_ID, FLAVOR, TOTAL_ORDER는 각각 
